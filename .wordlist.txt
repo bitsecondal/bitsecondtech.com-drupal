@@ -1036,3 +1036,7 @@ roku
 tv
 xcp
 mockups
+amd
+iamadmin
+thepost
+unpackaging
